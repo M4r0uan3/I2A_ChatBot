@@ -2,6 +2,14 @@
 
 - https://drive.google.com/drive/folders/1OA9-vcGwkqEwtUttzq-UJdJO4BJpErHl?usp=drive_link
 
+# test:
+```
+- I love you
+- I hate LLM
+- track_name: All the Day (Don Rokoko Remix)
+- ner <something>
+```
+
 # Fonction sentiment_analysis
 
 Effectue une analyse de sentiment sur le texte fourni en utilisant un modèle spécifique.
